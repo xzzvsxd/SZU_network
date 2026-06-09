@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+build/
+dist/
+build_onedir/
+dist_onedir/
+release/
+*.spec.bak
+*.log
+*.lock
+srun_autologin.log
+srun_autologin.lock

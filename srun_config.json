@@ -1,0 +1,8 @@
+{
+  "username": "",
+  "password": "",
+  "auto_start": false,
+  "check_interval": 60,
+  "theme": "system",
+  "server_url": "https://net.szu.edu.cn"
+}
