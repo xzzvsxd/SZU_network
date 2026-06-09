@@ -13,3 +13,9 @@ release/
 *.lock
 srun_autologin.log
 srun_autologin.lock
+
+# Local diagnostic scripts generated during machine-specific setup.
+promote_system_autostart.ps1
+stabilize_system_install.ps1
+start_one_daemon_admin.ps1
+verify_and_normalize_system.ps1
